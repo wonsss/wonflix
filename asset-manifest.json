@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/wonflix/static/js/main.f9dd11ee.chunk.js",
+    "main.js.map": "/wonflix/static/js/main.f9dd11ee.chunk.js.map",
+    "runtime-main.js": "/wonflix/static/js/runtime-main.702a39c7.js",
+    "runtime-main.js.map": "/wonflix/static/js/runtime-main.702a39c7.js.map",
+    "static/js/2.5d8bb8ac.chunk.js": "/wonflix/static/js/2.5d8bb8ac.chunk.js",
+    "static/js/2.5d8bb8ac.chunk.js.map": "/wonflix/static/js/2.5d8bb8ac.chunk.js.map",
+    "index.html": "/wonflix/index.html",
+    "static/js/2.5d8bb8ac.chunk.js.LICENSE.txt": "/wonflix/static/js/2.5d8bb8ac.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.9e83d4e6.png": "/wonflix/static/media/noPosterSmall.9e83d4e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.702a39c7.js",
+    "static/js/2.5d8bb8ac.chunk.js",
+    "static/js/main.f9dd11ee.chunk.js"
+  ]
+}
